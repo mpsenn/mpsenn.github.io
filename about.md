@@ -1,3 +1,7 @@
+---
+title: About
+---
+
 # About
 
-This page has no frontmatter.
+This page has minimal frontmatter
