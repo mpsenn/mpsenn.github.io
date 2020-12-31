@@ -1,8 +1,11 @@
 ---
-layout: page
 title: Hello World
 ---
 
-# Hello world
+# Mike Senn's home page
 
-This is the home page.
+Welcome to the personal home page of Mike Senn.
+
+See my [favorite things](favorites).
+
+This site powered by Github Pages and Jekyll.
